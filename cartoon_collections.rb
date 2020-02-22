@@ -21,4 +21,3 @@ def find_the_cheese(arr)
     cheese_types.include?(str) 
   end
 end
-  
