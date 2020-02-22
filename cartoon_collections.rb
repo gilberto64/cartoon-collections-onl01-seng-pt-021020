@@ -13,7 +13,7 @@ end
 
 def long_planeteer_calls (arr2)
   
-  arr2.any? |x| {
+  arr2.any? |x| {x.length
   
 end
 
