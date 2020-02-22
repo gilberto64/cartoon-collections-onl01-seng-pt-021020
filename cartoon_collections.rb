@@ -1,6 +1,6 @@
 require "pry"
 def roll_call_dwarves (array)
-array.each.with.index { |name, idx| #"{idx + 1}.   
+array.each.with.index { |name, idx| #"{idx + 1}. #{name}  
   
   
 end
