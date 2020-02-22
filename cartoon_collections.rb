@@ -1,6 +1,6 @@
 require "pry"
-def roll_call_dwarves (dwarves_n)
-  
+def roll_call_dwarves (array)
+array.each.with.index   
   
   
 end
