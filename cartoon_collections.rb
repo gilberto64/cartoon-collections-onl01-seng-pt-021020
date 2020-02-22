@@ -11,8 +11,9 @@ def summon_captain_planet (planeteer_calls)
   end
 end
 
-def long_planeteer_calls
+def long_planeteer_calls (arr2)
   
+  arr2.length 
   
 end
 
