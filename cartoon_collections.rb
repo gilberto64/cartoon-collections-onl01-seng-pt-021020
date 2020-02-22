@@ -6,7 +6,7 @@ end
   
 def summon_captain_planet (planeteer_calls)
   planeteer_calls
-  planeteer_calls.map 
+  planeteer_calls.map do |x|
 end
 
 def long_planeteer_calls# code an argument here
