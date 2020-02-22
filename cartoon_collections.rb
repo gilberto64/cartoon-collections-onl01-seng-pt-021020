@@ -13,7 +13,7 @@ end
 
 def long_planeteer_calls (arr2)
   
-  if arr2.length > 4
+  arr2.any?
   
 end
 
