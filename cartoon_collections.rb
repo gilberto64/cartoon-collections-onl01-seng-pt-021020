@@ -4,7 +4,8 @@ def roll_call_dwarves (array)
   array.each_with_index { |name, idx| print "#{idx + 1}. #{name}" }
 end 
   
-def summon_captain_planet
+def summon_captain_planet (planeteer_calls)
+  planeteer_calls
   # Your code here
 end
 
