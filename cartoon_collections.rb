@@ -1,11 +1,10 @@
 require "pry"
 
 def roll_call_dwarves (array)
-  array.each.with.index { |name, idx| #"{idx + 1}. #{name} }
+  array.each.with.index { |name, idx| "#{idx + 1}. #{name}" }
 end 
   
-  
-end
+
 
 def summon_captain_planet# code an argument here
   # Your code here
